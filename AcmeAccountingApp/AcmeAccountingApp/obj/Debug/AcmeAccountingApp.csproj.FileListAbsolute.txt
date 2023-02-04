@@ -1,7 +1,0 @@
-C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingAPp\AcmeAccountingAPp\bin\Debug\AcmeAccountingAPp.exe.config
-C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingAPp\AcmeAccountingAPp\bin\Debug\AcmeAccountingAPp.exe
-C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingAPp\AcmeAccountingAPp\bin\Debug\AcmeAccountingAPp.pdb
-C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingAPp\AcmeAccountingAPp\obj\Debug\AcmeAccountingApp.csproj.AssemblyReference.cache
-C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingAPp\AcmeAccountingAPp\obj\Debug\AcmeAccountingApp.csproj.CoreCompileInputs.cache
-C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingAPp\AcmeAccountingAPp\obj\Debug\AcmeAccountingAPp.exe
-C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AcmeAccountingAPp\AcmeAccountingAPp\obj\Debug\AcmeAccountingAPp.pdb
