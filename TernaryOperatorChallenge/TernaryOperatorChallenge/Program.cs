@@ -10,6 +10,7 @@ namespace TernaryOperatorChallenge
     {
         static void Main(string[] args)
         {
+            // Ternary operator allows you to write a single line of code that will check for a condition and, depending on the outcome, execute another portion of code
             int num1 = 77;
             int num2 = 12;
 
