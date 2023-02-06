@@ -1,0 +1,6 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorial\BranchingTutorial\bin\Debug\BranchingTutorial.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorial\BranchingTutorial\bin\Debug\BranchingTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorial\BranchingTutorial\bin\Debug\BranchingTutorial.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorial\BranchingTutorial\obj\Debug\BranchingTutorial.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorial\BranchingTutorial\obj\Debug\BranchingTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingTutorial\BranchingTutorial\obj\Debug\BranchingTutorial.pdb
