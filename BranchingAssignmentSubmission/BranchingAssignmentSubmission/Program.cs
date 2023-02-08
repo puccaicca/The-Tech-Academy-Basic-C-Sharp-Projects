@@ -43,20 +43,20 @@ namespace BranchingAssignmentSubmission
                 // calculates the dimensions
                 int dimensions = width + height + length;
 
-                // if dimensions is over 50, the program ends
-                if (dimensions > 50)
-                {
-                    Console.WriteLine("Package too big to be shipped via Package Express.");
-                    Console.ReadLine();
-                }
-                // program continues
-                else
-                {
-                    // shipping calculation : mulitply the dimensions together, multiply product by weight, divide outcome by 100
-                    decimal shipping = (height * width * length) * weight / 100.00m;
-                    Console.WriteLine("Your estimated total for shipping this package is: $" + shipping + "\nThank you, have a great day!");
-                    Console.ReadLine();
-                }
+                    // if dimensions is over 50, the program ends
+                    if (dimensions > 50)
+                    {
+                        Console.WriteLine("Package too big to be shipped via Package Express.");
+                        Console.ReadLine();
+                    }
+                    // program continues
+                    else
+                    {
+                        // shipping calculation : mulitply the dimensions together, multiply product by weight, divide outcome by 100
+                        decimal shipping = (height * width * length) * weight / 100.00m;
+                        Console.WriteLine("Your estimated total for shipping this package is: $" + shipping + "\nThank you, have a great day!");
+                        Console.ReadLine();
+                    }
             }
 
         }
