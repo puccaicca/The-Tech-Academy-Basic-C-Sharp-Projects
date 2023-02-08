@@ -1,0 +1,6 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsTutorial\LoopsTutorial\bin\Debug\LoopsTutorial.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsTutorial\LoopsTutorial\bin\Debug\LoopsTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsTutorial\LoopsTutorial\bin\Debug\LoopsTutorial.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsTutorial\LoopsTutorial\obj\Debug\LoopsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsTutorial\LoopsTutorial\obj\Debug\LoopsTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsTutorial\LoopsTutorial\obj\Debug\LoopsTutorial.pdb
