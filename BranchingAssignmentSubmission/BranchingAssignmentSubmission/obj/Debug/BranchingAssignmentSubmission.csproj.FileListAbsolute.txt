@@ -4,3 +4,4 @@ C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignmentSubmission\BranchingAssignmentSubmission\obj\Debug\BranchingAssignmentSubmission.csproj.CoreCompileInputs.cache
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignmentSubmission\BranchingAssignmentSubmission\obj\Debug\BranchingAssignmentSubmission.exe
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignmentSubmission\BranchingAssignmentSubmission\obj\Debug\BranchingAssignmentSubmission.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignmentSubmission\BranchingAssignmentSubmission\obj\Debug\BranchingAssignmentSubmission.csproj.AssemblyReference.cache
