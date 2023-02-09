@@ -31,11 +31,37 @@ namespace StringFunctionsTutorial
             //string name = "Lilian";
             //name = "Wendy";
 
+            //StringBuilder sb = new StringBuilder();
+
+            //sb.Append("My name is Lilian");
+
+            //Console.WriteLine(sb);
+            //Console.ReadLine();
+
+
+            // Strings Assignment
+
+            string firstName = "Lilian";
+            string middleName = "Kim";
+            string lastName = "Tan";
+
+            // concatenates three strings
+            string fullName = firstName + " " + middleName + " " + lastName;
+            Console.WriteLine(fullName);
+
+            // converts string to uppercase
+            fullName = fullName.ToUpper();
+            Console.WriteLine(fullName);
+
+            // creates a stringbuilder and builds a paragraph of text, one sentence at a time
             StringBuilder sb = new StringBuilder();
-
-            sb.Append("My name is Lilian");
-
+            sb.Append("Today is Wednesday evening, ");
+            sb.Append("I'm quietly doing my homework");
+            sb.Append(". I wonder what the next course awaits.");
+            sb.AppendLine();
+            sb.Append("Looking forward to it.");
             Console.WriteLine(sb);
+
             Console.ReadLine();
         }
     }
