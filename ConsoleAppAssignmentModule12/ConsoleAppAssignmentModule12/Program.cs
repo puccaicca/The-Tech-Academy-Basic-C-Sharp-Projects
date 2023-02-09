@@ -10,6 +10,7 @@ namespace ConsoleAppAssignmentModule12
     {
         static void Main(string[] args)
         {
+
             //Asks them to guess my fave number
             Console.WriteLine("Guess my favorite number");
             int number = Convert.ToInt32(Console.ReadLine());
@@ -53,6 +54,8 @@ namespace ConsoleAppAssignmentModule12
             }
             while (!guess); // while loop is false, will do the above
             Console.Read();
+
+            
             
             }
         }
