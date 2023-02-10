@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ArraysAndListsTutorial\ArraysAndListsTutorial\bin\Debug\ArraysAndListsTutorial.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ArraysAndListsTutorial\ArraysAndListsTutorial\bin\Debug\ArraysAndListsTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ArraysAndListsTutorial\ArraysAndListsTutorial\bin\Debug\ArraysAndListsTutorial.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\ArraysAndListsTutorial.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\ArraysAndListsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\ArraysAndListsTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ArraysAndListsTutorial\ArraysAndListsTutorial\obj\Debug\ArraysAndListsTutorial.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndListsTutorial", "ArraysAndListsTutorial\ArraysAndListsTutorial.csproj", "{22DF7A45-1443-458E-B072-993C92A6AB3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22DF7A45-1443-458E-B072-993C92A6AB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DF7A45-1443-458E-B072-993C92A6AB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DF7A45-1443-458E-B072-993C92A6AB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DF7A45-1443-458E-B072-993C92A6AB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {994FB670-7931-4FE6-B05B-0CD9E3AF056B}
+	EndGlobalSection
+EndGlobal
