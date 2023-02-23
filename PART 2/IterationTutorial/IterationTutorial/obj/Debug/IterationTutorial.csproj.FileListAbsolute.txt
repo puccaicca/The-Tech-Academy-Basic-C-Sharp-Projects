@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\IterationTutorial\IterationTutorial\bin\Debug\IterationTutorial.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\IterationTutorial\IterationTutorial\bin\Debug\IterationTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\IterationTutorial\IterationTutorial\bin\Debug\IterationTutorial.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\IterationTutorial\IterationTutorial\obj\Debug\IterationTutorial.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\IterationTutorial\IterationTutorial\obj\Debug\IterationTutorial.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\IterationTutorial\IterationTutorial\obj\Debug\IterationTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\IterationTutorial\IterationTutorial\obj\Debug\IterationTutorial.pdb
