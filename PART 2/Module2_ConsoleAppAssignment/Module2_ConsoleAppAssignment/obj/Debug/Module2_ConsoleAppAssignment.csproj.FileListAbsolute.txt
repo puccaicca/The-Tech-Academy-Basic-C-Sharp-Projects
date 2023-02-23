@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module2_ConsoleAppAssignment\Module2_ConsoleAppAssignment\bin\Debug\Module2_ConsoleAppAssignment.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module2_ConsoleAppAssignment\Module2_ConsoleAppAssignment\bin\Debug\Module2_ConsoleAppAssignment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module2_ConsoleAppAssignment\Module2_ConsoleAppAssignment\bin\Debug\Module2_ConsoleAppAssignment.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module2_ConsoleAppAssignment\Module2_ConsoleAppAssignment\obj\Debug\Module2_ConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module2_ConsoleAppAssignment\Module2_ConsoleAppAssignment\obj\Debug\Module2_ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module2_ConsoleAppAssignment\Module2_ConsoleAppAssignment\obj\Debug\Module2_ConsoleAppAssignment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module2_ConsoleAppAssignment\Module2_ConsoleAppAssignment\obj\Debug\Module2_ConsoleAppAssignment.pdb
