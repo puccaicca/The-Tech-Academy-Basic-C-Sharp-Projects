@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ExceptionHandlingTutorial\ExceptionHandlingTutorial\bin\Debug\ExceptionHandlingTutorial.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ExceptionHandlingTutorial\ExceptionHandlingTutorial\bin\Debug\ExceptionHandlingTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ExceptionHandlingTutorial\ExceptionHandlingTutorial\bin\Debug\ExceptionHandlingTutorial.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ExceptionHandlingTutorial\ExceptionHandlingTutorial\obj\Debug\ExceptionHandlingTutorial.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ExceptionHandlingTutorial\ExceptionHandlingTutorial\obj\Debug\ExceptionHandlingTutorial.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ExceptionHandlingTutorial\ExceptionHandlingTutorial\obj\Debug\ExceptionHandlingTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\ExceptionHandlingTutorial\ExceptionHandlingTutorial\obj\Debug\ExceptionHandlingTutorial.pdb
