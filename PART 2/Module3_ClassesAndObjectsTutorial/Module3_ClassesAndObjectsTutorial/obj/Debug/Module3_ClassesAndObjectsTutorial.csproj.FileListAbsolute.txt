@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ClassesAndObjectsTutorial\Module3_ClassesAndObjectsTutorial\bin\Debug\Module3_ClassesAndObjectsTutorial.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ClassesAndObjectsTutorial\Module3_ClassesAndObjectsTutorial\bin\Debug\Module3_ClassesAndObjectsTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ClassesAndObjectsTutorial\Module3_ClassesAndObjectsTutorial\bin\Debug\Module3_ClassesAndObjectsTutorial.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ClassesAndObjectsTutorial\Module3_ClassesAndObjectsTutorial\obj\Debug\Module3_ClassesAndObjectsTutorial.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ClassesAndObjectsTutorial\Module3_ClassesAndObjectsTutorial\obj\Debug\Module3_ClassesAndObjectsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ClassesAndObjectsTutorial\Module3_ClassesAndObjectsTutorial\obj\Debug\Module3_ClassesAndObjectsTutorial.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ClassesAndObjectsTutorial\Module3_ClassesAndObjectsTutorial\obj\Debug\Module3_ClassesAndObjectsTutorial.pdb
