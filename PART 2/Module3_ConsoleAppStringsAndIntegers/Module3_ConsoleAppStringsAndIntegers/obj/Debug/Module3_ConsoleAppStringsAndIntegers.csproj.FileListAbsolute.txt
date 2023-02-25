@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ConsoleAppStringsAndIntegers\Module3_ConsoleAppStringsAndIntegers\bin\Debug\Module3_ConsoleAppStringsAndIntegers.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ConsoleAppStringsAndIntegers\Module3_ConsoleAppStringsAndIntegers\bin\Debug\Module3_ConsoleAppStringsAndIntegers.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ConsoleAppStringsAndIntegers\Module3_ConsoleAppStringsAndIntegers\bin\Debug\Module3_ConsoleAppStringsAndIntegers.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ConsoleAppStringsAndIntegers\Module3_ConsoleAppStringsAndIntegers\obj\Debug\Module3_ConsoleAppStringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ConsoleAppStringsAndIntegers\Module3_ConsoleAppStringsAndIntegers\obj\Debug\Module3_ConsoleAppStringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ConsoleAppStringsAndIntegers\Module3_ConsoleAppStringsAndIntegers\obj\Debug\Module3_ConsoleAppStringsAndIntegers.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module3_ConsoleAppStringsAndIntegers\Module3_ConsoleAppStringsAndIntegers\obj\Debug\Module3_ConsoleAppStringsAndIntegers.pdb
