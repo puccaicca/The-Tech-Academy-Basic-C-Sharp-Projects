@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MainMethodsAssisgnment\Module4_MainMethodsAssisgnment\bin\Debug\Module4_MainMethodsAssisgnment.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MainMethodsAssisgnment\Module4_MainMethodsAssisgnment\bin\Debug\Module4_MainMethodsAssisgnment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MainMethodsAssisgnment\Module4_MainMethodsAssisgnment\bin\Debug\Module4_MainMethodsAssisgnment.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MainMethodsAssisgnment\Module4_MainMethodsAssisgnment\obj\Debug\Module4_MainMethodsAssisgnment.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MainMethodsAssisgnment\Module4_MainMethodsAssisgnment\obj\Debug\Module4_MainMethodsAssisgnment.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MainMethodsAssisgnment\Module4_MainMethodsAssisgnment\obj\Debug\Module4_MainMethodsAssisgnment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MainMethodsAssisgnment\Module4_MainMethodsAssisgnment\obj\Debug\Module4_MainMethodsAssisgnment.pdb
