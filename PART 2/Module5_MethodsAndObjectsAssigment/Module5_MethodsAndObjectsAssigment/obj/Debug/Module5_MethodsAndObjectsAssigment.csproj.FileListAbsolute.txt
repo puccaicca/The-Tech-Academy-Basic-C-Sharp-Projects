@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module5_MethodsAndObjectsAssigment\Module5_MethodsAndObjectsAssigment\bin\Debug\Module5_MethodsAndObjectsAssigment.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module5_MethodsAndObjectsAssigment\Module5_MethodsAndObjectsAssigment\bin\Debug\Module5_MethodsAndObjectsAssigment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module5_MethodsAndObjectsAssigment\Module5_MethodsAndObjectsAssigment\bin\Debug\Module5_MethodsAndObjectsAssigment.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module5_MethodsAndObjectsAssigment\Module5_MethodsAndObjectsAssigment\obj\Debug\Module5_MethodsAndObjectsAssigment.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module5_MethodsAndObjectsAssigment\Module5_MethodsAndObjectsAssigment\obj\Debug\Module5_MethodsAndObjectsAssigment.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module5_MethodsAndObjectsAssigment\Module5_MethodsAndObjectsAssigment\obj\Debug\Module5_MethodsAndObjectsAssigment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module5_MethodsAndObjectsAssigment\Module5_MethodsAndObjectsAssigment\obj\Debug\Module5_MethodsAndObjectsAssigment.pdb
