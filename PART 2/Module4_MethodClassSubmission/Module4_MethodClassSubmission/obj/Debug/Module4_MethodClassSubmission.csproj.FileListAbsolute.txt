@@ -1,2 +1,7 @@
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MethodClassSubmission\Module4_MethodClassSubmission\obj\Debug\Module4_MethodClassSubmission.csproj.AssemblyReference.cache
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MethodClassSubmission\Module4_MethodClassSubmission\obj\Debug\Module4_MethodClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MethodClassSubmission\Module4_MethodClassSubmission\bin\Debug\Module4_MethodClassSubmission.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MethodClassSubmission\Module4_MethodClassSubmission\bin\Debug\Module4_MethodClassSubmission.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MethodClassSubmission\Module4_MethodClassSubmission\bin\Debug\Module4_MethodClassSubmission.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MethodClassSubmission\Module4_MethodClassSubmission\obj\Debug\Module4_MethodClassSubmission.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Module4_MethodClassSubmission\Module4_MethodClassSubmission\obj\Debug\Module4_MethodClassSubmission.pdb
