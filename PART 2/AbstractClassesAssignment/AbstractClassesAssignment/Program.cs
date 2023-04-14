@@ -15,6 +15,15 @@ namespace AbstractClassesAssignment
             //Call the SayName method on the object
             sam.SayName();
             Console.ReadLine();
+
+            // Use polumorphism to create an object of type IQuittable and call the Quit() method on it
+            IQuittable NewEmployee = new Employee();
+
+            ((Employee)NewEmployee).firstName = "Karen";
+            ((Employee)NewEmployee).lastName = "Wong";
+
+            NewEmployee.Quit(NewEmployee);
+            Console.ReadLine();
         }
     }
 }
