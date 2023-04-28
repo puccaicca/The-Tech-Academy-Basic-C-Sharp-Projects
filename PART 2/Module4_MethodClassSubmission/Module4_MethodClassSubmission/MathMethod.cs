@@ -8,34 +8,12 @@ namespace Module4_MethodClassSubmission
 {
     public class MathMethod
     {
-        //// First method that takes an integer
-        //public int MathOp(int number)
-        //{
-        //    return number + 9;
-        //}
-        //// Second method that takes a decimal
-        //public int MathOp(decimal number)
-        //{
-        //    // Convert the decimal to an int to perform math operation
-        //    int newnum = Convert.ToInt32(number);
-        //    return newnum * 30; 
-        //}
-        //// Third Method that takes a string, converts to an integer, performs a math operation and returns the result
-        //public int MathOp(string number)
-        //{
-        //    //Convert the string to an int to perform a math operation
-        //    int newnum = Convert.ToInt32(number);
-        //    return newnum / 2;
-
         // create a void method that takes two integers as parameters. Have the method do a math operation on the first integer and display the second integer to the screen.
-        public int MathOp(int i, int j)
+        public void MathOp(int num1, int num2)
         {
-            int result = i * j;
-            return result;
-        }
-        public int MathOp(string i, string j)
-        {
-            
+            int operation = num1 * 60;
+            Console.WriteLine("The first number you entered is " + num1 + " which is * by 60 " + "and the Result = " + operation);
+            Console.WriteLine("The second number you entered is  " + num2 + " and there is no operation required for this");
         }
     }
 }
