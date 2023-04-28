@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.pdb
