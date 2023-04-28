@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parameters (Generics) Assignment\Parameters (Generics) Assignment\bin\Debug\Parameters (Generics) Assignment.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parameters (Generics) Assignment\Parameters (Generics) Assignment\bin\Debug\Parameters (Generics) Assignment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parameters (Generics) Assignment\Parameters (Generics) Assignment\bin\Debug\Parameters (Generics) Assignment.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parameters (Generics) Assignment\Parameters (Generics) Assignment\obj\Debug\Parameters (Generics) Assignment.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parameters (Generics) Assignment\Parameters (Generics) Assignment\obj\Debug\Parameters (Generics) Assignment.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parameters (Generics) Assignment\Parameters (Generics) Assignment\obj\Debug\Parameters (Generics) Assignment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Parameters (Generics) Assignment\Parameters (Generics) Assignment\obj\Debug\Parameters (Generics) Assignment.pdb
