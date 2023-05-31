@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Lambda Expression Assignment\Lambda Expression Assignment\bin\Debug\Lambda Expression Assignment.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\Lambda Expression Assignment\Lambda Expression Assignment\obj\Debug\Lambda Expression Assignment.pdb
