@@ -1,0 +1,7 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.exe.config
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.csproj.AssemblyReference.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.exe
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.pdb
