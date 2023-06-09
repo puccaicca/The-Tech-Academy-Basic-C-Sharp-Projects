@@ -1,22 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
-namespace TwentyOne // TwentyOne Game
+
+namespace TwentyOne 
 {
     class Program
     {
         static void Main(string[] args)
         {
-            DateTime dyearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
-            DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
-
-            TimeSpan ageAtGraduation = yearOfGraduation - dyearOfBirth;
             
-
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
