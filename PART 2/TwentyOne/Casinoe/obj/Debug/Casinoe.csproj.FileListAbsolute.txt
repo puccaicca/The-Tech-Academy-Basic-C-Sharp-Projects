@@ -1,0 +1,5 @@
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Casinoe\bin\Debug\Casinoe.dll
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Casinoe\bin\Debug\Casinoe.pdb
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Casinoe\obj\Debug\Casinoe.csproj.CoreCompileInputs.cache
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Casinoe\obj\Debug\Casinoe.dll
+C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Casinoe\obj\Debug\Casinoe.pdb

@@ -1,6 +1,6 @@
 ﻿using System;
-using Casino;
-using Casino.TwentyOne;
+using Casinoe;
+using Casinoe.TwentyOne;
 
 
 namespace TwentyOne 
