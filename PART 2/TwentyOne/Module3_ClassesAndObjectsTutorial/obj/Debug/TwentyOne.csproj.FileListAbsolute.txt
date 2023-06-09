@@ -4,7 +4,6 @@ C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Module3_ClassesAndObjectsTutorial\bin\Debug\Module3_ClassesAndObjectsTutorial.exe.config
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Module3_ClassesAndObjectsTutorial\bin\Debug\Module3_ClassesAndObjectsTutorial.exe
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Module3_ClassesAndObjectsTutorial\bin\Debug\Module3_ClassesAndObjectsTutorial.pdb
-C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Module3_ClassesAndObjectsTutorial\bin\Debug\Casino.pdb
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Module3_ClassesAndObjectsTutorial\obj\Debug\TwentyOne.csproj.CopyComplete
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Module3_ClassesAndObjectsTutorial\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
 C:\Users\heart\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PART 2\TwentyOne\Module3_ClassesAndObjectsTutorial\bin\Debug\Casinoe.dll
