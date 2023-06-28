@@ -1,6 +1,6 @@
 # The Tech Academy Basic C-Sharp Projects
  
-These are various C# and .NET Framework projects/assignments I made during my course at Academy of Learning
+These are various C# and .NET Framework projects/assignments I made during my course at Academy of Learning.
 
 <h2>Projects</h2>
 <ul>
